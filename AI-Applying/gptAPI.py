@@ -1,5 +1,6 @@
 #primary, in terminal: pip install openai
 #terminal : setx OPENAI_API_KEY "your_api_key_here"
+
 import os
 from openai import OpenAI
 
